@@ -1,0 +1,87 @@
+{
+  "loggedUser": { "id": 593990, "isSubscriber": true },
+  "lastMatches": [
+    {
+      "id": 11289049,
+      "teamNameA": "C4 Base",
+      "scoreA": 16,
+      "teamNameB": "Gonpontes",
+      "scoreB": 9,
+      "win": 1,
+      "ratingPlayer": 2605,
+      "ratingDiff": 14,
+      "map": "de_overpass",
+      "type": "lobby"
+    },
+    {
+      "id": 11290046,
+      "teamNameA": "C4 Base",
+      "scoreA": 9,
+      "teamNameB": "Ticorila",
+      "scoreB": 16,
+      "win": 0,
+      "ratingPlayer": 2596,
+      "ratingDiff": -9,
+      "map": "de_mirage",
+      "type": "lobby"
+    },
+    {
+      "id": 11310533,
+      "teamNameA": "C4 Base",
+      "scoreA": 16,
+      "teamNameB": "Siri",
+      "scoreB": 7,
+      "win": 1,
+      "ratingPlayer": 2618,
+      "ratingDiff": 22,
+      "map": "de_dust2",
+      "type": "lobby"
+    },
+    {
+      "id": 11311158,
+      "teamNameA": "C4 Base",
+      "scoreA": 16,
+      "teamNameB": "fogogamer",
+      "scoreB": 10,
+      "win": 1,
+      "ratingPlayer": 2634,
+      "ratingDiff": 16,
+      "map": "de_vertigo",
+      "type": "lobby"
+    }
+  ],
+  "playerInfo": {
+    "id": 593990,
+    "nick": "MrS",
+    "level": 18,
+    "rating": 2634,
+    "isSubscriber": true,
+    "statsBackground": null,
+    "calibrationMatches": 250
+  },
+  "character": {
+    "totalHits": 76,
+    "hitbox": {
+      "head": 18,
+      "chest": 31,
+      "stomach": 11,
+      "leftArm": 1,
+      "rightArm": 8,
+      "leftLeg": 6,
+      "rightLeg": 1
+    }
+  },
+  "matchesRating": { "max": 2634, "min": 2596 },
+  "stats": [
+    { "stat": "KDR", "value": "1.86", "diff": "-28" },
+    { "stat": "ADR", "value": "113.88", "diff": "-28" },
+    { "stat": "KAST%", "value": "81%", "diff": "-11" },
+    { "stat": "Multi Kills", "value": "6", "diff": "-40" },
+    { "stat": "First kills", "value": "2", "diff": "-33" },
+    { "stat": "Clutches", "value": "0" },
+    { "stat": "HS%", "value": "54%", "diff": "69" },
+    { "stat": "Precis\u00e3o%", "value": "14%", "diff": "-39" },
+    { "stat": "Bombas pla.", "value": "4", "diff": "33" },
+    { "stat": "Bombas def.", "value": "0" }
+  ]
+}
